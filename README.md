@@ -1,4 +1,9 @@
-# MICROVERSE PROJECTS
+![](https://img.shields.io/badge/Microverse%20Projects-template-blue) 
+![GitHub issues](https://img.shields.io/github/issues/OlukaDenis/Microverse-Projects)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/OlukaDenis/Microverse-Projects)
+![GitHub forks](https://img.shields.io/github/forks/OlukaDenis/Microverse-Projects?style=social)
+
+# Microverse Projects
 
 | COURSE               | SECTION                                | PROJECT TITLE                            | GitHub                                                               | Live                                                                                                           |
 | -------------------- | -------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -9,7 +14,7 @@
 |                      | Design and UX                          | 5: [Smashing Magazine Teardown](https://www.smashingmagazine.com/)            | [Github Repo](https://github.com/OlukaDenis/Smashing-Magazine/)          | [Live](https://rawcdn.githack.com/OlukaDenis/Smashing-Magazine/97aa432e7722a72a26fd9c56c3745e3e3e5c5f7f/index.html)                                                                 |
 |                      | Responsive Design and CSS Frameworks   | 6: [The Next Web](https://thenextweb.com) Clone                    | [Github Repo](https://github.com/OlukaDenis/Responsive_Design/)                | [Live](https://rawcdn.githack.com/OlukaDenis/Responsive_Design/0b465c881c33ca6f165886535ecf5234aa76f337/index.html)                                                                       |
 |                      |                                        | 7: [Newsweek](https://newsweek.com) Clone                        | [Github Repo](https://github.com/OlukaDenis/News-Week/)           | [Live](https://raw.githack.com/OlukaDenis/News-Week/master/index.html)                                                                  |
-|                      | Advanced CSS                           | 8: Grid-Based Framework                  | [Github Repo](https://github.com/OlukaDenis/CSS-Framework/) | [Live]()                                                        |  | 
+|                      | Advanced CSS                           | 8: Grid-Based Framework                  | [Github Repo](https://github.com/OlukaDenis/CSS-Framework/) | [Live](https://rawcdn.githack.com/OlukaDenis/CSS-Framework/57201b8e1b2e39da7ecb5cc08e856563611b2354/index.html)                                                        |  | 
 | **2: RUBY**          | Basic Ruby                             | 9: Building Blocks                       |                                                    |                                                                      |
 |                      |                                        | 10: Advanced Building Blocks             |                       |                                                               |
 |                      | Intermediate Ruby                      | 11: Tic Tac Toe                          |                                                    |                                                                      |
@@ -68,7 +73,7 @@
 - CSS Tricks
 
 # Authors
-- [Denis Oluka](https://github.com/OlukaDenis)
+- [Denis Oluka](https://github.com/OlukaDenis) ![Twitter Follow](https://img.shields.io/twitter/follow/dennylucaz?style=social)
 
 - [Christian Salazar](https://github.com/Grifo89)
 
@@ -77,3 +82,5 @@
 #
   ##### _Please you are free to Fork this repository_ 
 #
+
+###### Created by Denis 

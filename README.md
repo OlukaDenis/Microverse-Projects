@@ -47,7 +47,7 @@
 - Ruby
 - Ruby on Rails
 - Flask
-- MySQL
+- SQL
 - React
 - Redux
 
@@ -55,7 +55,7 @@
 - VS Code
 - Linux Mint
 - Git
-- XAMP
+- XAMP/LAMPP
 - GitHub
 - Zoom
 - Slack
@@ -72,10 +72,8 @@
 - Youtube
 - CSS Tricks
 
-# Authors
+# Author
 - [Denis Oluka](https://github.com/OlukaDenis) ![Twitter Follow](https://img.shields.io/twitter/follow/dennylucaz?style=social)
-
-- [Christian Salazar](https://github.com/Grifo89)
 
 > "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create.”
 
